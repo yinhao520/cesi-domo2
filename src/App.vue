@@ -5,6 +5,7 @@
       <router-link to="/about">About</router-link>
     </nav>
     <router-view/>
+    <h1>尹豪</h1>
   </div>
 </template>
 
