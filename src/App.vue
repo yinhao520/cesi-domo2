@@ -7,6 +7,7 @@
     <router-view/>
     <h1>尹豪</h1>
     <h2>yinhao</h2>
+    <h2>hah</h2>
   </div>
 </template>
 
